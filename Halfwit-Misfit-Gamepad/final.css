@@ -14,7 +14,7 @@ body {
     margin: 0 auto; 
     overflow: hidden; 
 } .controller.xbox{
-    background: url(misfit-ps5-base.png);
+    background: url(https://imgur.com/YVV4py3);
     width: 807px;
     height: 651px;
     margin-left: 0;
@@ -25,7 +25,7 @@ body {
     left: 220px;
     top: 333px;
 }.xbox .stick {
-    background: url(misfit-ps5-sticks.png);
+    background: url(https://imgur.com/6tpW8Qr);
     width: 100px;
     height: 100px;
 } .xbox .stick.pressed {
@@ -39,7 +39,7 @@ body {
     left: 573px;
     top: 178px;
 } .xbox .button {
-    background: url(misfit-ps5-buttons-1.png);
+    background: url(https://imgur.com/MpEnFGG);
     width: 58px;
     height: 58px;
 } .xbox .button.pressed {
@@ -69,7 +69,7 @@ body {
 } .xbox .quadrant { 
     display: none; 
 } .xbox .back, .xbox .start {
-    background: url(misfit-ps5-buttons-2.png);
+    background: url(https://imgur.com/Z77xldY);
     width: 27px;
     height: 57px;
     opacity: 0;
@@ -82,7 +82,7 @@ body {
     left: 71px;
     top: 196px;
 } .xbox .face {
-    background: url(misfit-ps5-arrowkeys.png);
+    background: url(https://imgur.com/8iABa0m);
     position: absolute;
     opacity: 0;
 } .xbox .face.up {
@@ -114,7 +114,7 @@ body {
     left: 93px;
     top: 114px;
 } .xbox .bumper {
-    background: url(misfit-ps5-bumpers.png);
+    background: url(https://imgur.com/bkF5bMQ);
     width: 110px;
     height: 35px;
     opacity: 0;
@@ -123,7 +123,7 @@ body {
     height: 108px;
     left: 94px;
 } .xbox .trigger {
-    background: url(misfit-ps5-triggers.png);
+    background: url(https://imgur.com/gnpznUi);
     width: 111px;
     height: 108px;
     opacity: 0;
